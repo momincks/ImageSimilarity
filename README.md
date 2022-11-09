@@ -1,4 +1,4 @@
-# Grouping Similar Images
+# Image Similarity
 This model helps to group or clean all the duplicated or similar images, resulting either groups of them, or a directory with only unique images.
 ***
 ## Design:
